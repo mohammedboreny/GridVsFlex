@@ -1,0 +1,91 @@
+.itm0 {
+
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 5px;
+
+
+
+}
+
+.itemcol {
+    display: flex;
+    width: 25%;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.item0 {
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    gap: 5px;
+}
+
+.maincol {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    gap: 5px;
+}
+
+.item1 {
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+    display: flex;
+    justify-self: flex-end;
+    gap: 5px;
+}
+
+.item2 {
+    width: 100%;
+    height: 300px;
+    background-color: yellow;
+    gap:5px ;
+}
+
+.item3 {
+
+    background-color: green;
+    width: 100%;
+    height: 200px;
+
+    gap:5px ;
+
+}
+
+.item4 {
+    background-color: grey;
+    width: 100%;
+    height: 30%;
+    gap:5px ;
+}
+
+.item5 {
+    background-color: aquamarine;
+    width: 75%;
+    height: 100px;
+    gap:5px;
+}
+
+.item6 {
+    background-color: pink;
+    width: 25%;
+    height: 100px;
+    gap:5px;
+
+}
+.relcol{
+display: flex;
+width: 100%;
+flex-direction: row;
+gap: 5px;
+}
+
+.item7 {
+    background-color: orange;
+    width: 100%;
+    height: 100px;
+    gap:5px ;
+}
